@@ -7,3 +7,4 @@ folium
 numpy
 scipy
 branca
+gunicorn
