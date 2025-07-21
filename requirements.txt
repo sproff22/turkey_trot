@@ -1,0 +1,9 @@
+flask
+pandas
+requests
+geopandas
+shapely
+folium
+numpy
+scipy
+branca
