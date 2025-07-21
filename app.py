@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def turkey_map():
-    # --- Your data fetching and processing code here ---
+
     species_code = "wiltur"
     region_code = "US-MA"
     url = f"https://api.ebird.org/v2/data/obs/{region_code}/recent/{species_code}"
